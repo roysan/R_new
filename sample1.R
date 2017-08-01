@@ -3,4 +3,4 @@ k<-data(mtcars)
 
 mtcars
 
-print(mtcars)
+str(k)
